@@ -1,0 +1,67 @@
+('efetch_887.xml', 391)
+no element found: line 5506, column 0
+('efetch_1333.xml', 478)
+unsupported operand type(s) for +: 'NoneType' and 'str'
+('efetch_2129.xml', 563)
+unsupported operand type(s) for +: 'NoneType' and 'str'
+('efetch_1127.xml', 698)
+unsupported operand type(s) for +: 'NoneType' and 'str'
+('efetch_684.xml', 794)
+no element found: line 5499, column 63
+('efetch_2187.xml', 805)
+unsupported operand type(s) for +: 'NoneType' and 'str'
+('efetch_114.xml', 827)
+unsupported operand type(s) for +: 'NoneType' and 'str'
+('efetch_145.xml', 838)
+no element found: line 5756, column 12
+('efetch_1995.xml', 1088)
+unsupported operand type(s) for +: 'NoneType' and 'str'
+('efetch_627.xml', 1202)
+unsupported operand type(s) for +: 'NoneType' and 'str'
+('efetch_387.xml', 1265)
+unsupported operand type(s) for +: 'NoneType' and 'str'
+('efetch_389.xml', 1300)
+unclosed token: line 5533, column 20
+('efetch_227.xml', 1311)
+no element found: line 6624, column 27
+('efetch_2216.xml', 1314)
+unsupported operand type(s) for +: 'NoneType' and 'str'
+('efetch_659.xml', 1409)
+no element found: line 5659, column 92
+('efetch_347.xml', 1421)
+no element found: line 5342, column 1994
+('efetch_65.xml', 1470)
+no element found: line 5640, column 65
+('efetch_870.xml', 1512)
+no element found: line 5216, column 6
+('efetch_660.xml', 1558)
+unclosed token: line 6383, column 16
+('efetch_910.xml', 1640)
+unclosed token: line 5576, column 16
+('efetch_398.xml', 1701)
+no element found: line 7120, column 72
+('efetch_429.xml', 1844)
+no element found: line 6550, column 62
+('efetch_366.xml', 1882)
+no element found: line 6519, column 9
+('efetch_385.xml', 1920)
+unclosed token: line 6034, column 16
+('efetch_475.xml', 1931)
+unclosed token: line 5899, column 16
+('efetch_881.xml', 2203)
+unclosed token: line 7076, column 12
+('efetch_2492.xml', 2306)
+unsupported operand type(s) for +: 'NoneType' and 'str'
+('efetch_877.xml', 2339)
+no element found: line 5430, column 57
+('efetch_650.xml', 2382)
+unclosed token: line 6435, column 12
+('efetch_711.xml', 2398)
+unclosed token: line 5625, column 16
+('efetch_727.xml', 2405)
+unsupported operand type(s) for +: 'NoneType' and 'str'
+('efetch_532.xml', 2434)
+no element found: line 6126, column 954
+('efetch_854.xml', 2498)
+no element found: line 5912, column 3
+
